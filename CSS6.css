@@ -1,0 +1,19 @@
+body {
+    background-color: hotpink;
+}
+
+h1 p.groot{
+    font-family: Arial, serif;
+    font-size:1.8em;
+}
+h1{color:blue}
+h2 p.groot{
+    font-family: Arial, serif;
+    font-size: 100.0em;
+}
+h2{color:pink}
+h3 p.groot {
+    font-family: Arial,serif;
+    font-size: 1.8em;
+}
+h3{color:darkred}
